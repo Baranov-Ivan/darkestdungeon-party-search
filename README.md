@@ -1,7 +1,7 @@
 # Darkest Dungeon Party Search
 A dead-simple tool for finding named party combinations in the game Darkest Dungeon.
 
-https://ticking-clock.github.io/darkestdungeon-party-search/
+https://baranov-ivan.github.io/darkestdungeon-party-search/
 
 Features
 ---
