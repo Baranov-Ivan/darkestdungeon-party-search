@@ -3,6 +3,11 @@ A dead-simple tool for finding named party combinations in the game Darkest Dung
 
 https://ticking-clock.github.io/darkestdungeon-party-search/
 
+Features
+---
+* Added Shieldbreaker class  
+* Updated table from Darkest Dungeon Gamepedia
+
 How to use
 ---
 Choose the classes you want to include in the party combinations by selecting them in the drop-downs.
@@ -12,3 +17,5 @@ Credit
 ---
 All content creation and credit goes to Darkest Dungeon Gamepedia.
 This simple tool filters information that is directly copied from: https://darkestdungeon.gamepedia.com/Party_Combos
+  
+Original tool by https://github.com/ticking-clock
